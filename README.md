@@ -3,7 +3,7 @@
 <h3> 🙇 &nbsp; About Me </h3>
 
 - 👨‍💻 &nbsp; Exploring new technologies and being a curious person in general.
-- 🎓 &nbsp; I am a self taught Developer from Germany.
+- 🎓 &nbsp; I am a self taught Developer from Germany/Austria.
 - 💼 &nbsp; Currently looking for work in the field.
 - 🌱 &nbsp; As of now, currently learning Next.js, Three.js and a couple of other fun things.
 - 🕹️ &nbsp; I like Eating, Sleeping and playing Video games, as I am a big Nerd.
