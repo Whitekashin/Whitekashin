@@ -46,7 +46,7 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Patrick%20Reitbauer-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://www.linkedin.com/in/patrick-reitbauer/"></a>
 <a href="mailto:patrick.reitbauer@web.de"><img alt="Email" src="https://img.shields.io/badge/Email-patrick.reitbauer@web.de-blue?style=flat-square&logo=gmail"></a>
 </p>
 
