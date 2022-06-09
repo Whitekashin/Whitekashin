@@ -38,7 +38,6 @@
 
 <a href="https://github.com/Whitekashin">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitekashin&theme=tokyonight&show_icons=true" />
-  ![Alt Text](https://github.com/Whitekashin/Whitekashin/blob/main/night_coder.gif)
   
 </a>
 
